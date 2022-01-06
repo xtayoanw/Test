@@ -1,0 +1,11 @@
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\bin\Debug\netcoreapp2.1\GitTest.deps.json
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\bin\Debug\netcoreapp2.1\GitTest.runtimeconfig.json
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\bin\Debug\netcoreapp2.1\GitTest.runtimeconfig.dev.json
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\bin\Debug\netcoreapp2.1\GitTest.dll
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\bin\Debug\netcoreapp2.1\GitTest.pdb
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.csprojAssemblyReference.cache
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.AssemblyInfoInputs.cache
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.AssemblyInfo.cs
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.dll
+C:\Users\1457849\Desktop\TIS RAC\Test\GitTest\GitTest\obj\Debug\netcoreapp2.1\GitTest.pdb
