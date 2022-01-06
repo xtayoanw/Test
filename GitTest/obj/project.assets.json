@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\GitTest\\GitTest\\GitTest.csproj",
+      "projectUniqueName": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\New folder (2)\\Testt\\GitTest\\GitTest.csproj",
       "projectName": "GitTest",
-      "projectPath": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\GitTest\\GitTest\\GitTest.csproj",
+      "projectPath": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\New folder (2)\\Testt\\GitTest\\GitTest.csproj",
       "packagesPath": "C:\\Users\\1457849\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\GitTest\\GitTest\\obj\\",
+      "outputPath": "C:\\Users\\1457849\\Desktop\\TIS RAC\\Test\\New folder (2)\\Testt\\GitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
